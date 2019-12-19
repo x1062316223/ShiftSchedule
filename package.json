@@ -1,0 +1,65 @@
+{
+  "name": "ShiftSchedule",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-brands-svg-icons": "^5.12.0",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-native-fontawesome": "^0.1.0",
+    "@react-native-community/geolocation": "^2.0.2",
+    "animate-components": "^1.4.8",
+    "firebase": "^6.6.2",
+    "geofire": "^5.0.1",
+    "moment": "^2.24.0",
+    "react": "16.8.6",
+    "react-multiple-datepicker": "^0.1.0",
+    "react-native": "0.60.5",
+    "react-native-calendar-picker": "^6.0.3",
+    "react-native-calendar-strip": "^1.3.9",
+    "react-native-calendars": "^1.217.0",
+    "react-native-check-box": "^2.1.7",
+    "react-native-dotenv": "^0.2.0",
+    "react-native-elements": "^1.2.7",
+    "react-native-fontawesome": "^7.0.0",
+    "react-native-geolocation-service": "^3.1.0",
+    "react-native-gesture-handler": "^1.5.2",
+    "react-native-paper": "^2.16.0",
+    "react-native-picker-checkbox": "^2.0.2",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-sectioned-multi-select": "^0.7.6",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-material-bottom-tabs": "^2.1.5",
+    "react-navigation-stack": "^1.10.3",
+    "react-navigation-tabs": "^2.6.2",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.4",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/runtime": "^7.7.6",
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.7.2",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.3",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}
