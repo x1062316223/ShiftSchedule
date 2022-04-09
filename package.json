@@ -16,7 +16,7 @@
     "animate-components": "^1.4.8",
     "firebase": "^6.6.2",
     "geofire": "^5.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.8.6",
     "react-multiple-datepicker": "^0.1.0",
     "react-native": "0.60.5",
